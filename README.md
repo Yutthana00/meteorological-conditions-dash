@@ -12,7 +12,8 @@ Online Application Deployment Link: https://yutthana00.github.io/meteorological-
 
 Weather dashboard landing page:
 <br>
-<img width="1080" alt="Screenshot 2022-01-29 at 22 39 18" src="https://user-images.githubusercontent.com/95193763/151679842-8433fade-8789-4a3b-9e2b-e51125f16427.png">
+<img width="1080" alt="Screenshot 2022-01-30 at 01 33 23" src="https://user-images.githubusercontent.com/95193763/151683327-102d5d7f-0614-40c9-985d-9537aedcf421.png">
+
 
 <br>
 
