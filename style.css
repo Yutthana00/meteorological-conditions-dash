@@ -20,6 +20,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.card-body {
+    background-color: rgb(95, 211, 254);
+}
 .container{
     padding: 20px 70px;
     color:#fff;
