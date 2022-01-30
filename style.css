@@ -11,7 +11,7 @@
 }
 
 body{
-    background:url('/moutain.jpg');
+    background-image: url('moutain.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;

@@ -7,6 +7,8 @@ GitHub Repository Link: https://github.com/Yutthana00/meteorological-conditions-
 <br>
 
 Online Application Deployment Link: https://yutthana00.github.io/meteorological-conditions-dash/
+
+https://yutthana00.github.io/meteorological-conditions-dash/
 <br>
 
 Weather dashboard landing page:
